@@ -4,7 +4,7 @@
   Este projeto usa Quarkus, o Supersonic Subatomic Java Framework.
 </p>
 
-[![Texto alternativo](https://github.com/LarissaZanata/order/tree/master/imagens/Mind Maps.jpg)](https://github.com/LarissaZanata/order/tree/master/imagens)
+[![Texto alternativo](https://github.com/LarissaZanata/order/tree/master/imagens/Mind Maps.jpg)]
 
 ## Como Executar
 
