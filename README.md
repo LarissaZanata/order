@@ -4,11 +4,7 @@
   Este projeto usa Quarkus, o Supersonic Subatomic Java Framework.
 </p>
 
-<div style="display: inline_block"><br>
-  <img align="center" height="90" width="120" src="https://github.com/LarissaZanata/order/tree/master/Mind Maps.jpg">
-</div> 
-
-![Logo do meu projeto](Mind Maps.jpg)
+![Logo do meu projeto](order/Mind Maps.jpg)
 
 ## Como Executar
 
