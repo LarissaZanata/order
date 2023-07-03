@@ -4,6 +4,10 @@
   Este projeto usa Quarkus, o Supersonic Subatomic Java Framework.
 </p>
 
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
+</div> 
+
 ## Como Executar
 
 Siga estas etapas para executar o microserviço order localmente:
