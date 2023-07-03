@@ -6,6 +6,14 @@
 
 [![Arquitetura](https://github.com/LarissaZanata/order/tree/master/imagens/Mind_Maps.jpg)]
 
+
+![Mind Maps](https://github.com/LarissaZanata/order/assets/31900224/8fc6e8f3-249a-4ca0-8359-bb7c07177752)
+
+<div align="center">
+<img src="https://github.com/LarissaZanata/order/assets/31900224/8fc6e8f3-249a-4ca0-8359-bb7c07177752" width="700px" />
+</div>
+
+
 ## Como Executar
 
 Siga estas etapas para executar o microserviço order localmente:
