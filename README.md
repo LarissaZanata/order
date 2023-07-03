@@ -5,7 +5,7 @@
 </p>
 
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://github.com/LarissaZanata/order/tree/master/Mind Maps.jpg">
+  <img align="center" height="90" width="120" src="https://github.com/LarissaZanata/order/tree/master/Mind Maps.jpg">
 </div> 
 
 ![Logo do meu projeto](Mind Maps.jpg)
