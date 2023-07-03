@@ -5,7 +5,7 @@
 </p>
 
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
+  <img align="center" height="30" width="40" src="https://github.com/LarissaZanata/order/tree/master/Mind Maps.jpg">
 </div> 
 
 ![Logo do meu projeto](Mind Maps.jpg)
